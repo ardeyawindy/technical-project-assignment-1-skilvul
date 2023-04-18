@@ -270,6 +270,7 @@ header {
   margin: 10px;
 }
 .label-porto {
+  margin-bottom: 10px;
   text-align: center;
   font-size: 18px;
   color: var(--font);
